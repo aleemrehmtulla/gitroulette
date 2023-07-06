@@ -1,0 +1,16 @@
+# VSCode specific files
+.vscode/
+*.code-workspace
+
+# Compiled output
+/out/
+/dist/
+/node_modules/
+
+# Dependency directories
+/lib/
+/types/
+
+# Environment variables
+.env
+.vscode/settings.json
