@@ -6,7 +6,7 @@ once initialized, every 10-15 minutes, you will get 10 seconds to panic and orga
 
 ### How to install
 
-- Head to the [releases](https://marketplace.visualstudio.com/items?itemName=AleemRehmtulla.gitroulette) page and download the latest version
+- Head to the [marketplace](https://marketplace.visualstudio.com/items?itemName=AleemRehmtulla.gitroulette) page and install the latest version
 - Open Visual Studio Code and initiate the command palette (cmd + shift + p)
 - Run `Git Roulette: GTFOL` and begin shipping faster
 

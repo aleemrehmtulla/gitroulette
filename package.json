@@ -3,7 +3,7 @@
 	"displayName": "Git Roulette",
 	"publisher": "aleemrehmtulla",
 	"description": "Git Roulette forcefully saves & pushes your entire workspace every 10-15 minutes. It's like Russian Roulette, but for your codebase.",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/aleemrehmtulla/gitroulette"
